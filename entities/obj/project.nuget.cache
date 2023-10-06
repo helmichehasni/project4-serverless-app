@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLPzzKT5upp1W6A46ejMbJUgItZNpcdYntJ21IVI8yFnT9xY2XHEOG5AaWGKz8whRuoCLFCZVnAdyzi//faV1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\helmi.che.hasni\\Documents\\GitHub\\azure\\projects\\serverless\\src\\entities\\ToDoList.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helmi.che.hasni\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

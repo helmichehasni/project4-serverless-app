@@ -1,0 +1,11 @@
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\bin\Release\net6.0\ToDoList.Entities.deps.json
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\bin\Release\net6.0\ToDoList.Entities.dll
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\bin\Release\net6.0\ToDoList.Entities.pdb
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ToDoList.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ToDoList.Entities.AssemblyInfoInputs.cache
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ToDoList.Entities.AssemblyInfo.cs
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ToDoList.Entities.csproj.CoreCompileInputs.cache
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ToDoList.Entities.dll
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\refint\ToDoList.Entities.dll
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ToDoList.Entities.pdb
+C:\Users\helmi.che.hasni\Documents\GitHub\azure\projects\serverless\src\entities\obj\Release\net6.0\ref\ToDoList.Entities.dll
